@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Atharva Zagade</h1>
 <h3 align="center">A Computer Engineering Undergraduate passionate about technology...</h3>
 
-- 🌱 I’m currently learning **Blockchain, Solidity, Web3**
+- 🌱 I’m currently learning **Distributed Computing**
 
 - 💬 Ask me about **Algorithms and Data Structures, Cloud Computing, Cyber Security.**
 
